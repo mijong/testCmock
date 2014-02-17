@@ -1,0 +1,6 @@
+test/TestAdcTemperatureSensor.c:16:testShouldStartTemperatureSensorConversionWhenTriggered:PASS
+test/TestAdcTemperatureSensor.c:23:testTemperatureSensorSampleReadyShouldReturnChannelConversionCompletionStatus:PASS
+test/TestAdcTemperatureSensor.c:35:testReadTemperatureSensorShouldFetchAndTranslateLatestReadingToMillivolts:PASS
+-----------------------
+3 Tests 0 Failures 0 Ignored
+OK

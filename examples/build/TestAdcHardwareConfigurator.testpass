@@ -1,0 +1,6 @@
+test/TestAdcHardwareConfigurator.c:18:testResetShouldResetTheAdcConverterPeripheral:PASS
+test/TestAdcHardwareConfigurator.c:25:testConfigureModeShouldSetAdcModeRegisterAppropriately:PASS
+test/TestAdcHardwareConfigurator.c:36:testEnableTemperatureChannelShouldEnableTheAppropriateAdcInput:PASS
+-----------------------
+3 Tests 0 Failures 0 Ignored
+OK

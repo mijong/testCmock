@@ -1,0 +1,11 @@
+test/TestTaskScheduler.c:14:testShouldScheduleUsartTaskAfter1000ms:PASS
+test/TestTaskScheduler.c:25:testShouldClearUsartDoFlagAfterReported:PASS
+test/TestTaskScheduler.c:33:testShouldScheduleUsartTaskEvery1000ms:PASS
+test/TestTaskScheduler.c:47:testShouldScheduleUsartTaskOnlyOncePerPeriod:PASS
+test/TestTaskScheduler.c:60:testShouldScheduleAdcTaskAfter100ms:PASS
+test/TestTaskScheduler.c:71:testShouldClearAdcDoFlagAfterReported:PASS
+test/TestTaskScheduler.c:79:testShouldScheduleAdcTaskEvery100ms:PASS
+test/TestTaskScheduler.c:93:testShouldScheduleAdcTaskOnlyOncePerPeriod:PASS
+-----------------------
+8 Tests 0 Failures 0 Ignored
+OK

@@ -1,0 +1,4 @@
+test/TestMain.c:14:testMainShouldCallExecutorInitAndContinueToCallExecutorRunUntilHalted:PASS
+-----------------------
+1 Tests 0 Failures 0 Ignored
+OK

@@ -1,0 +1,5 @@
+test/TestExecutor.c:18:testInitShouldCallInitOfAllConductorsAndTheModel:PASS
+test/TestExecutor.c:29:testRunShouldCallRunForEachConductorAndReturnTrueAlways:PASS
+-----------------------
+2 Tests 0 Failures 0 Ignored
+OK

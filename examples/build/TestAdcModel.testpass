@@ -1,0 +1,6 @@
+test/TestAdcModel.c:16:testDoGetSampleShouldReturn_FALSE_WhenTaskSchedulerReturns_FALSE:PASS
+test/TestAdcModel.c:22:testDoGetSampleShouldReturn_TRUE_WhenTaskSchedulerReturns_TRUE:PASS
+test/TestAdcModel.c:28:testProcessInputShouldDelegateToTemperatureCalculatorAndPassResultToFilter:PASS
+-----------------------
+3 Tests 0 Failures 0 Ignored
+OK
